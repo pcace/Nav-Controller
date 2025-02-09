@@ -10,10 +10,10 @@
   #define BUTTON_PIN_4 3
   #define BUTTON_PIN_5 4
 #else
-  #define BUTTON_PIN_1 4
-  #define BUTTON_PIN_2 2
+  #define BUTTON_PIN_1 21
+  #define BUTTON_PIN_2 32
   #define BUTTON_PIN_3 16
-  #define BUTTON_PIN_4 21
+  #define BUTTON_PIN_4 2
   #define BUTTON_PIN_5 17
 #endif
 
