@@ -32,8 +32,8 @@ You can view the STL file for the enclosure directly on GitHub:
 [Enclosure STL File](print/navController_case.stl)
 
 ### Libraries Used
-- [OneButton](https://platformio.org/lib/show/1268/OneButton) by Matthias Hertel
-- [ESP32 BLE Keyboard](https://platformio.org/lib/show/1070/ESP32%20BLE%20Keyboard) by T-vK
+- [OneButton](https://github.com/mathertel/OneButton) by Matthias Hertel
+- [ESP32 BLE Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) by T-vK
 
 ### Installation
 1. Clone the repository:
