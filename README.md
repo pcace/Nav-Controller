@@ -27,6 +27,10 @@ The code currently includes the default commands for left, right, up, down, zoom
 - **Hardware**: ESP32-C3-DevKitM-1
 - **Software**: Arduino Framework, PlatformIO
 
+### STL File
+You can view the STL file for the enclosure directly on GitHub:
+[Enclosure STL File](print/navController_case.stl)
+
 ### Libraries Used
 - [OneButton](https://platformio.org/lib/show/1268/OneButton) by Matthias Hertel
 - [ESP32 BLE Keyboard](https://platformio.org/lib/show/1070/ESP32%20BLE%20Keyboard) by T-vK
