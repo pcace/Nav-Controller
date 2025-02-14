@@ -38,8 +38,8 @@ You can view the STL file for the enclosure directly on GitHub:
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/Open-Navigation-Controller.git
-    cd Open-Navigation-Controller
+    git clone git@github.com:pcace/Nav-Controller.git
+    cd Nav-Controller
     ```
 2. Install the dependencies:
     ```sh
