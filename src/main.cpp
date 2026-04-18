@@ -17,7 +17,7 @@
   #define BUTTON_PIN_5 17
 #endif
 
-BleKeyboard bleKeyboard;
+BleKeyboard bleKeyboard("Nav-Controller");
 
 /**
  * Keyboard Map
